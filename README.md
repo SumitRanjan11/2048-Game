@@ -1,4 +1,4 @@
 # 2048-Game
-first repository of my project.
+this is my first repository of my project.
 <br/>
-Author - Sumit Ranjan
+Author - Sumit 268 Ranjan
